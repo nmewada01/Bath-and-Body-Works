@@ -36,6 +36,7 @@ es6 +-.
 import-export.
 
  github link : https://iakashmondal.github.io/bath-and-body-works-2/
+ github deploy link : https://harshvyas2704.github.io/bath-and-body-works-2/
  
 ## Website Flow.
 
